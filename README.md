@@ -7,6 +7,7 @@
 A simple Employee Management System built using Python.  
 This project helps manage employee records such as adding, updating, viewing, and deleting employees.
 
+#
 
 ## 🚀 Features
 - Add new employee
@@ -15,11 +16,13 @@ This project helps manage employee records such as adding, updating, viewing, an
 - Delete employee record
 - Simple and easy to use interface
 
+#
 
 ## 🛠 Technologies Used
 - Python
 - File Handling / Database (agar use kiya hai)
 
+#
 
 ## 📂 Project Structure
 emp-project/
@@ -29,6 +32,7 @@ emp-project/
 ├── database.py
 └── README.md
 
+#
 
 ## ▶️ How to Run
 
@@ -44,14 +48,51 @@ cd employee-management-system-python
 
 python main.py
 
+#
 
 ## 👨‍💻 Author
 Prajwal Nevase
 
+#
+
 ## 🎥 Demo
 
 This project is a simple Employee Management System built using Python that allows users to add, view, update, and delete employee records.
+#
+#
 
-## 📸 Project Screenshot
 
-![Employee Management System](login page.png)
+## 📸 Project Screenshots
+
+
+### 🔐 Login Page
+#
+![Login Page](login_page.png)
+
+#
+#
+
+### ➕ New Employee Page
+#
+![New Employee](homepage(New_employee).png)
+
+#
+#
+
+### ➕ Add Employee Page
+#
+![Add Employee](homepage(New_employee).png)
+
+#
+#
+
+### ✏️ Update Employee Page
+#
+![Update Employee](homepage(update_employee).png)
+
+#
+#
+
+### ❌ Delete Employee Page
+#
+![Delete Employee](homepage(delate_employee).png)
