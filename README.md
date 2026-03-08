@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Employee Management System (Python)
 
 A simple Employee Management System built using Python.  
@@ -43,3 +47,6 @@ python main.py
 
 ## 👨‍💻 Author
 Prajwal Nevase
+## 🎥 Demo
+
+This project is a simple Employee Management System built using Python that allows users to add, view, update, and delete employee records.
