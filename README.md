@@ -47,6 +47,11 @@ python main.py
 
 ## 👨‍💻 Author
 Prajwal Nevase
+
 ## 🎥 Demo
 
 This project is a simple Employee Management System built using Python that allows users to add, view, update, and delete employee records.
+
+## 📸 Project Screenshot
+
+![Employee Management System](login page.png)
